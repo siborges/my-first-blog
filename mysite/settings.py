@@ -25,7 +25,7 @@ SECRET_KEY = 'miv79-3u8n_pgeqn=-c&8mowe+%l=ea%r%kly(o&+(+8=5c__t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sborges.pythonanywhere.com']
 
 
 # Application definition
